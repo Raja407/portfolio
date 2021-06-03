@@ -772,3 +772,6 @@
 <script src="js/timeline.js"></script>
 <script src="vendor/js/contact_us.js"></script>
 <script src="js/script.js"></script>
+    
+    </body>
+</html>
